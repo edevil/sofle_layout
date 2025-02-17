@@ -17,3 +17,7 @@ Layout for my Sofle Choc Pro keyboard
 1. Compile
 
         make keebart/sofle_choc_pro:edevil
+
+1. Flash
+
+        make keebart/sofle_choc_pro:edevil:flash
